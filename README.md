@@ -13,8 +13,8 @@ Assumed business case: You're a data analyst at a company that sells aquaculture
 - Fields: Country, Species, Year, Source (Capture/Aquaculture), Production (tons)
 
 ## 🧼 Data Cleaning Summary
-- Removed historical nations (e.g., USSR)
-- Filtered to Aquaculture only
+- Edited the name of the column
+- Filtered Aquacultur
 - Aggregated by country/species/year
 - Handled missing values and zeros
 
@@ -56,7 +56,7 @@ cd aquaculture-market-analysis
 jupyter notebook
 
 ## 🙋‍♂️ About Me
-I'm [Your Name], a data analyst transitioning from fisheries science into data analytics. This project shows my ability to combine domain expertise with analytical thinking and present actionable insights for business decisions.
+I'm Fadil M Nasrudy, a data analyst transitioning from fisheries science into data analytics. This project shows my ability to combine domain expertise with analytical thinking and present actionable insights for business decisions.
 
 
 
