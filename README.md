@@ -15,6 +15,7 @@ Assumed business case: You're a data analyst at a company that sells aquaculture
 ## 🧼 Data Cleaning Summary
 - Edited the name of the column
 - Edited the source as Aquaculture and Capture
+- Exclude the unit that recorded as unit
 - Aggregated by country/species/year
 - Handled missing values and zeros
 
