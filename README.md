@@ -14,9 +14,20 @@ Assumed business case: You're a data analyst at a company that sells aquaculture
 
 ## 🧼 Data Cleaning Summary
 - Edited the name of the column
-- Filtered Aquacultur
+- Edited the source as Aquaculture and Capture
 - Aggregated by country/species/year
 - Handled missing values and zeros
+
+this is how my df head look like after cleaning
+
+
+|        | Country   | Species           | Unit                 | Source             |   Year |   Production |
+|-------:|:----------|:------------------|:---------------------|:-------------------|:-------:|-------------:|
+| 163730 | Guam      | Rainbow runner    | Tonnes - live weight | Capture production |   2014 |         0.86 |
+| 283512 | Italy     | Picarels NEI      | Tonnes - live weight | Capture production |   2007 |      1644    |
+| 142595 | Canada    | Lake trout(=Char) | Tonnes - live weight | Capture production |   2015 |       501    |
+|  44900 | Panama    | Whiteleg shrimp   | Tonnes - live weight | Aquaculture        |   2021 |      5195    |
+|  80769 | Portugal  | Lings NEI         | Tonnes - live weight | Capture production |   2019 |        11    |
 
 ## 📊 Exploratory Data Analysis (EDA)
 Key questions answered:
