@@ -30,11 +30,11 @@ this is how my df head look like after cleaning
 |  80769 | Portugal  | Lings NEI         | Tonnes - live weight | Capture production |   2019 |        11    |
 
 ## 📊 Exploratory Data Analysis (EDA)
-Key questions answered:
-- Which countries produce the most from aquaculture?
-- How has production changed over time?
-- What are the top aquaculture species globally and per country?
-- Where do sudden drops or increases occur (e.g., Indonesia seaweed in 2021)?
+Core questions to be ask:
+- What is the trend of fisheries production globally, especially in aquaculture? is it worth growing and worth to be invested?
+- Which countries are the most significant producers in the global aquaculture market?
+- Which countries represent the greatest growth opportunity, not just the large current market?
+- For the most promising countries, what is the composition of their aquaculture industry?
 
 ![Top Producers, *remember to add the embeded](visuals/top_producers.png)
 
