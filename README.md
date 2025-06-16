@@ -10,12 +10,12 @@ Assumed business case: You're a data analyst at a company that sells aquaculture
 ## 📂 Dataset Description
 - Source: [FAO Fishery Statistics](https://www.fao.org/fishery/statistics-query/en/global_production/global_production_quantity)
 - Years: 2000–2024
-- Fields: Country, Species, Year, Source (Capture/Aquaculture), Production (tons)
+- Fields: Country, Species, Year, Source (Capture/Aquaculture), Production (tons/number)
 
 ## 🧼 Data Cleaning Summary
 - Edited the name of the column
 - Edited the source as Aquaculture and Capture
-- Exclude the unit that recorded as unit
+- Exclude the unit that recorded as number
 - Aggregated by country/species/year
 - Handled missing values and zeros
 
