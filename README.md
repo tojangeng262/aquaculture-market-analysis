@@ -37,7 +37,7 @@ Core questions to be ask:
 - Which countries represent the greatest growth opportunity, not just the large current market?
 - For the most promising countries, what is the composition of their aquaculture industry?
 
-![Top Producers, *remember to add the embeded](visuals/top_producers.png)
+![Top Producers, *remember to add the embeded](visuals/Fisheries-Commodity-Production-Over-Time.png)
 
 ## 🔬 Trend Analysis & Country Ranking
 - Used linear regression to calculate production growth rate (2010–2024)
