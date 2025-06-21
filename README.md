@@ -91,7 +91,7 @@ The market is overwhelmingly driven by the explosive growth of aquatic plants (p
 Crucially, when we examine the trend for high-value species, a nuanced picture emerges. The production of Crustaceans (High Value), such as shrimp, shows consistent and healthy growth, reaching a substantial volume of nearly one million tonnes in 2023. However, this growth is vastly outpaced by the sheer scale and velocity of the lower-value commodity groups.
 This presents a compelling dual opportunity in the Indonesian market. While the massive volume in aquatic plants and freshwater fish offers a large-scale market for foundational aquaculture technologies, the steady and significant growth of the high-value crustacean sector provides a lucrative, specialized niche for more advanced, high-margin products. This unique combination of scale and value confirms Indonesia's status as a top-tier market with multiple avenues for entry and expansion.
 
-![Top Producers, *ingat untuk ganti gambar](visuals/Aquaculture_Production_Trends_in_Indonesia_by_Species Group.png)
+![Top Producers, *ingat untuk ganti gambar](visuals/Aquaculture_Production_Trends_in_Indonesia_by_Species_Group.png)
 
 ### Phase 5 Analysis: Market Recommendations
 #### Which countries offer the best opportunities for expansion, based on our analysis?
