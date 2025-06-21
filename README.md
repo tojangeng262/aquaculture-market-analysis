@@ -47,7 +47,7 @@ Answering the fundamental question of market viability, the global fisheries ind
 While traditional capture fisheries production has remained largely stagnant, hovering around a stable level since 2000, aquaculture production has experienced explosive and continuous growth. This dramatic divergence in trends led to a pivotal moment in 2013, "The Crossover" year, when aquaculture production surpassed capture production for the first time. This shift has only accelerated since. In the year 2000, aquaculture accounted for just 30.8% of the total fisheries commodity production. By 2023, its contribution had nearly doubled, commanding a dominant 59.5% share. This data unequivocally demonstrates that aquaculture is not only a growing industry but is now the primary engine of growth for the entire global fisheries sector, validating it as a compelling area for investment.
 
 
-![Top Producers, *ingat untuk ganti gambar](visuals/Fisheries-Commodity-Production-Over-Time-Real.png)
+![Top Producers, *ingat untuk ganti gambar](visuals/Fisheries_Trend_Aquaculture_vs_Capture_Enhanced.png)
 
 
 ### Phase 2 Analysis: Identifying the Titans of Aquaculture
