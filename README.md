@@ -57,7 +57,7 @@ To identify viable investment markets, we must first recognize the dominant play
 The current market leaders, representing the top 10 countries by production volume, are unequivocally led by China, whose output dwarfs all other nations. Following China, a second tier of major producers includes Indonesia, India, and Viet Nam. The list of consistent top performers is rounded out by the Philippines, Bangladesh, Republic of Korea, Japan, Norway, and Thailand.
 These ten nations are not just recent leaders; they are consistent powerhouses. The chart clearly shows that every country in the top 10 has maintained significant production levels over the last decade. The substantial volume contributed during the 2010-2024 period (dark purple bars) confirms their enduring status as the industry's most reliable and significant producers. This consistency, especially the accelerated growth in the more recent decade, points to stable, well-established markets with robust infrastructure and sustained demand, making them the primary focus for any strategic investment analysis.
 
-![Top Producers, *ingat untuk ganti gambar](visuals/Fisheries-Commodity-Production-Over-Time-Real.png)
+![Top Producers, *ingat untuk ganti gambar](visuals/Top_10_Countries_by_Total_Production_2000–2024.png)
 
 
 ### Phase 3 Analysis: Spotting the Rising Stars and Ideal Targets
