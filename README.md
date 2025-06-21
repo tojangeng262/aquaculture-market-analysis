@@ -1,7 +1,5 @@
 # 🌊 Aquaculture Market Analysis: Identifying High-Potential Countries for Expansion
 
-### *Still a draft
-
 ## 📖 Introduction
 This project analyzes global aquaculture production data to uncover trends, top species, and countries with high potential for market expansion. 
 
@@ -147,6 +145,8 @@ Consider pilot programs or partnerships in the **Rising Star** countries to esta
 ## 🙋‍♂️ About Me
 I'm Fadil M Nasrudy, a data analyst transitioning from fisheries science into data analytics. This project shows my ability to combine domain expertise with analytical thinking and present actionable insights for business decisions.
 
+## NOTE!!!
+When i complete this, i realized that &amp in species group mean "and". since i already complete it, i think that was something that i have to make sure in the future, to check the formatting of every value.
 
 
 
