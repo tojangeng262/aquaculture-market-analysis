@@ -81,7 +81,7 @@ Hyper-Specialized Markets: Several high-growth nations are overwhelmingly domina
 Diversified Markets: In stark contrast, other "Ideal Targets" like Indonesia and Viet Nam exhibit a much more diversified production portfolio. Neither country has a single species group that accounts for more than 50% of its total output. Instead, they cultivate a mix of finfish, crustaceans, and other species. These markets are ideal for companies with a broader range of products, as they offer multiple entry points and opportunities to cross-sell different technologies.
 This deep dive is crucial: while Ecuador and Indonesia are both top-tier growth markets, their internal structures are fundamentally different. A successful market entry strategy depends entirely on aligning a company's specific product line with the dominant farming practices of the target country.
 
-![Top Producers, *ingat untuk ganti gambar](visuals/Fisheries-Commodity-Production-Over-Time-Real.png)
+![Top Producers, *ingat untuk ganti gambar](visuals/Aquaculture_Species_Composition_First.png)
 
 ### Phase 4.2 Analysis: Uncovering Sector-Specific Trends in Countries That Promising
 #### Within a single target country, are they diversifying their farmed species or concentrating on just a few? Is the production of a high-value species growing faster than lower-value species?(Example Country : Indonesia, Example High Value Group : Crustacean)
