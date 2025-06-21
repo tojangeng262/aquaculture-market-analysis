@@ -146,7 +146,7 @@ Consider pilot programs or partnerships in the **Rising Star** countries to esta
 I'm Fadil M Nasrudy, a data analyst transitioning from fisheries science into data analytics. This project shows my ability to combine domain expertise with analytical thinking and present actionable insights for business decisions.
 
 ## NOTE!!!
-When i complete this, i realized that &amp in species group mean "and". since i already complete it, i think that was something that i have to make sure in the future, to check the formatting of every value.
+When i complete this, i realized that the "&amp" in FAO species group value mean "and". since i already complete it, i think that was something that i have to make sure in the future, to check the formatting of every value.
 
 
 
