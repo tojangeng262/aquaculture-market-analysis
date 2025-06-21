@@ -70,7 +70,7 @@ Rising Stars (High Growth / Low Volume): These countries have the highest growth
 Mature Markets (Low Growth / High Volume): This quadrant highlights the importance of looking beyond size alone. China, the world's largest producer, has a CAGR near zero, classifying it as a mature and saturating market. Other large producers from Phase 2, such as the Philippines and Japan, also show low or even negative growth, indicating limited expansion potential.
 In conclusion, comparing the top producers by volume against their growth rates reveals a critical insight: the biggest markets are not always the best for future investment. While China remains the largest, the most compelling opportunities lie with the "Ideal Targets" like Indonesia, which offer scale and explosive growth, and the "Rising Stars" like Ecuador, which promise to be the next generation of market leaders.
 
-![Top Producers, *ingat untuk ganti gambar](visuals/Fisheries-Commodity-Production-Over-Time-Real.png)
+![Top Producers, *ingat untuk ganti gambar](visuals/Aquaculture_Market_Positioning.png)
 
 ### Phase 4 Analysis: The Deep Dive into Species Composition
 #### For the most promising countries, what is the composition of their aquaculture industry?
