@@ -91,6 +91,27 @@ This presents a compelling dual opportunity in the Indonesian market. While the 
 
 ![Top Producers, *ingat untuk ganti gambar](visuals/Aquaculture_Production_Trends_in_Indonesia_by_Species_Group.png)
 
+For the graph for every other country, you can click the country you want to see below
+
+|    | Country                    | Market Position   | Top Species Segments                                                         |
+|---:|:---------------------------|:------------------|:-----------------------------------------------------------------------------|
+|  1 | [Indonesia](visuals/phase4.2/Aquaculture_Production_Trends_in_Indonesia_by_Species_Group.png)                  | Ideal Target      | Aquatic plants, Freshwater &amp; diadromous fish, Crustaceans                |
+|  2 | [India](visuals/phase4.2/Aquaculture_Production_Trends_in_India_by_Species_Group.png)                      | Ideal Target      | Freshwater &amp; diadromous fish, Crustaceans, Marine fish NEI               |
+|  3 | [Viet Nam](visuals/phase4.2/Aquaculture_Production_Trends_in_Viet_Nam_by_Species_Group.png)                  | Ideal Target      | Freshwater &amp; diadromous fish, Crustaceans, Molluscs excl. cephalopods    |
+|  4 | [Bangladesh](visuals/phase4.2/Aquaculture_Production_Trends_in_Bangladesh_by_Species_Group.png)                 | Ideal Target      | Freshwater &amp; diadromous fish, Crustaceans, Marine fish NEI               |
+|  8 | [Egypt](visuals/phase4.2/Aquaculture_Production_Trends_in_Egypt_by_Species_Group.png)                      | Ideal Target      | Freshwater &amp; diadromous fish, Demersal fish, Crustaceans                 |
+| 10 | [Ecuador](visuals/phase4.2/Aquaculture_Production_Trends_in_Ecuador_by_Species_Group.png)                    | Ideal Target      | Crustaceans, Freshwater &amp; diadromous fish, Aquatic animals NEI           |
+| 11 | [Myanmar](visuals/phase4.2/Aquaculture_Production_Trends_in_Myanmar_by_Species_Group.png)                    | Ideal Target      | Freshwater &amp; diadromous fish, Crustaceans, Molluscs excl. cephalopods    |
+| 14 | [Brazil](visuals/phase4.2/Aquaculture_Production_Trends_in_Brazil_by_Species_Group.png)                     | Ideal Target      | Freshwater &amp; diadromous fish, Crustaceans, Molluscs excl. cephalopods    |
+| 16 | [Iran (Islamic Republic of)](visuals/phase4.2/Aquaculture_Production_Trends_in_Iran_(Islamic_Republic_of)_by_Species_Group.png) | Rising Star       | Freshwater &amp; diadromous fish, Crustaceans                                |
+| 17 | [Türkiye](visuals/phase4.2/Aquaculture_Production_Trends_in_Türkiye_by_Species_Group.png)                    | Rising Star       | Demersal fish, Freshwater &amp; diadromous fish, Molluscs excl. cephalopods  |
+| 20 | [Russian Federation](visuals/phase4.2/Aquaculture_Production_Trends_in_Russian_Federation_by_Species_Group.png)         | Rising Star       | Freshwater &amp; diadromous fish, Aquatic plants, Molluscs excl. cephalopods |
+| 21 | [Cambodia](visuals/phase4.2/Aquaculture_Production_Trends_in_Cambodia_by_Species_Group.png)                   | Rising Star       | Freshwater &amp; diadromous fish, Molluscs excl. cephalopods, Crustaceans    |
+| 22 | [Mexico](visuals/phase4.2/Aquaculture_Production_Trends_in_Mexico_by_Species_Group.png)                     | Rising Star       | Crustaceans, Freshwater &amp; diadromous fish, Pelagic fish                  |
+| 24 | [Nigeria](visuals/phase4.2/Aquaculture_Production_Trends_in_Nigeria_by_Species_Group.png)                    | Rising Star       | Freshwater &amp; diadromous fish, Crustaceans                                |
+| 29 | [Pakistan](visuals/phase4.2/Aquaculture_Production_Trends_in_Pakistan_by_Species_Group.png)                   | Rising Star       | Freshwater &amp; diadromous fish, Crustaceans                                |
+
+
 ### Phase 5 Analysis: Market Recommendations
 #### Which countries offer the best opportunities for expansion, based on our analysis?
 
