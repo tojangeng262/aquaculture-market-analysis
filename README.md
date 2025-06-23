@@ -3,7 +3,7 @@
 ## 📖 Introduction
 This project analyzes global aquaculture production data to uncover trends, top species, and countries with high potential for market expansion. 
 
-Assumed business case: You're a data analyst at a company that sells aquaculture tools and want to identify **country tha can became an option** to expand into, based on **volume, growth rate, and species trends**.
+Assumed business case: You're a data analyst at a company that sells aquaculture tools and want to identify **country that can became an option** to expand into, based on **volume, growth rate, and species trends**.
 
 ## 📂 Dataset Description
 - Source: [FAO Fishery Statistics](https://www.fao.org/fishery/statistics-query/en/global_production/global_production_quantity)
