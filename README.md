@@ -29,7 +29,7 @@ Core questions to be ask:
 
 ### Phase 1 Analysis: Global Production Trends in Fisheries
 #### 📈 What is the trend of fisheries production globally, especially in aquaculture? is it worth growing and worth to be invested?
-"""
+
 
 - Fisheries production has grown consistently since 2000.
 - The growth is driven almost entirely by **aquaculture**.
