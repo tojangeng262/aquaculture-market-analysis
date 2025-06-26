@@ -1,7 +1,5 @@
 # 🌊 Aquaculture Market Analysis: Identifying High-Potential Countries for Expansion
 
-### *Final version*
-
 ## 📖 Introduction
 This project analyzes global aquaculture production data to uncover trends, top species, and countries with high potential for market expansion.
 
@@ -78,28 +76,30 @@ below, is the detail of top country in table that was align with company produt 
 
 | Rank | Country | Species | Score |
 |:----:|:--------------------------------------|:-----------------|----------:|
-| 1 | [China]() | Crustaceans, Marine fish NEI | 31.1064, -2.232597 |
-| 2 | [Ecuador]() | Crustaceans | 7.56675 |
-| 3 | [Viet Nam]() | Crustaceans | 4.72067 |
-| 4 | [Indonesia]() | Crustaceans | 2.26204 |
-| 5 | [India]() | Crustaceans | 2.12772 |
-| 6 | [Bangladesh]() | Marine fish NEI, Crustaceans | -0.311202, -0.876461 |
-| 7 | [United States of America]() | Marine fish NEI, Crustaceans | -0.679796, -4.941775 |
-| 8 | [Philippines]() | Crustaceans | -0.713251 |
-| 9 | [Japan]() | Crustaceans | -1.77402 |
-| 10 | [Thailand]() | Crustaceans | -1.78913 |
-| 11 | [Democratic People's Republic of Korea]() | Marine fish NEI | -2.41805 |
-| 12 | [Cambodia]() | Marine fish NEI | -2.84186 |
-| 13 | [Mexico]() | Crustaceans | -2.87401 |
-| 14 | [Taiwan Province of China]() | Crustaceans | -3.49545 |
-| 15 | [Brazil]() | Crustaceans | -3.51775 |
-| 16 | [Malaysia]() | Crustaceans | -4.01802 |
-| 17 | [Iran (Islamic Republic of)]() | Crustaceans | -6.27516 |
+| 1 | [China](visuals/final/phase4/Aquaculture_Production_Trends_China.png) | Crustaceans, Marine fish NEI | 31.1064, -2.232597 |
+| 2 | [Ecuador](visuals/final/phase4/Aquaculture_Production_Trends_Ecuador.png) | Crustaceans | 7.56675 |
+| 3 | [Viet Nam](visuals/final/phase4/Aquaculture_Production_Trends_Viet_Nam.png) | Crustaceans | 4.72067 |
+| 4 | [Indonesia](visuals/final/phase4/Aquaculture_Production_Trends_Indonesia.png) | Crustaceans | 2.26204 |
+| 5 | [India](visuals/final/phase4/Aquaculture_Production_Trends_India.png) | Crustaceans | 2.12772 |
+| 6 | [Bangladesh](visuals/final/phase4/Aquaculture_Production_Trends_Bangladesh.png) | Marine fish NEI, Crustaceans | -0.311202, -0.876461 |
+| 7 | [United States of America](visuals/final/phase4/Aquaculture_Production_Trends_United_States_of_America.png) | Marine fish NEI, Crustaceans | -0.679796, -4.941775 |
+| 8 | [Philippines](visuals/final/phase4/Aquaculture_Production_Trends_Philippines.png) | Crustaceans | -0.713251 |
+| 9 | [Japan](visuals/final/phase4/Aquaculture_Production_Trends_japan.png) | Crustaceans | -1.77402 |
+| 10 | [Thailand](visuals/final/phase4/Aquaculture_Production_Trends_Thailand.png) | Crustaceans | -1.78913 |
+| 11 | [Democratic People's Republic of Korea](visuals/final/phase4/Aquaculture_Production_Trends_Democratic_People's_Republic_of_Korea.png) | Marine fish NEI | -2.41805 |
+| 12 | [Cambodia](visuals/final/phase4/Aquaculture_Production_Trends_Cambodia.png) | Marine fish NEI | -2.84186 |
+| 13 | [Mexico](visuals/final/phase4/Aquaculture_Production_Trends_Mexico.png) | Crustaceans | -2.87401 |
+| 14 | [Taiwan Province of China](visuals/final/phase4/Aquaculture_Production_Trends_Taiwan_Province_of_China.png) | Crustaceans | -3.49545 |
+| 15 | [Brazil](visuals/final/phase4/Aquaculture_Production_Trends_Brazil.png) | Crustaceans | -3.51775 |
+| 16 | [Malaysia](visuals/final/phase4/Aquaculture_Production_Trends_Malaysia.png) | Crustaceans | -4.01802 |
+| 17 | [Iran (Islamic Republic of)](visuals/final/phase4/Aquaculture_Production_Trends_Iran_(Islamic_Republic_of).png) | Crustaceans | -6.27516 |
 
  i also create an overall composition, thou it focus on the related species group. here's is the example of country target composition. you can click the country above to see the detail of others country
  
-![Top Producers, *ingat untuk ganti gambar](visuals/final/Aquaculture_Country_&_Product_Scores.png)
+![Top Producers, *ingat untuk ganti gambar](visuals/final/phase4/Aquaculture_Production_Trends_Indonesia.png)
 
+
+!some note, i dont really know what is Marine fish NEI group, i just choose that because it was closely related to crustaceans
 ## 🧠 Phase 5: The Synthesis – Final Recommendation
 
 ### Ultimate Question:
@@ -111,9 +111,9 @@ below, is the detail of top country in table that was align with company produt 
 - Significant production of **crustaceans** and **marine fish NEI**, well-aligned with our product line.
 - Market stability is moderate, offering a balance of scale and manageable risk.
 
-👉 **Viet Nam** as a secondary candidate:
+👉 **Viet Nam, Bangladesh and India** as a another candidate:
 - Strong growth and a healthy mix of target species.
-- Slightly higher volatility than Indonesia, but still a strategic opportunity.
+- Slightly have lower production or cagr than Indonesia, but still a strategic opportunity.
 
 Markets like **China** were deprioritized due to mature growth, and **Ecuador** is promising but highly specialized (mainly crustaceans).
 
@@ -125,15 +125,15 @@ Markets like **China** were deprioritized due to mature growth, and **Ecuador** 
 
 ## 🙋‍♂️ About Me
 I'm Fadil M Nasrudy, a data analyst transitioning from fisheries science into data analytics. This project demonstrates my ability to combine domain knowledge with analytics to deliver actionable business insights.
-"""
-
-## NOTE!!!
-When i complete this, i realized that the "&amp" in FAO species group value mean "and". since i already complete it, i think that was something that i have to make sure in the future, to check the formatting of every value.
 
 
+## 📬 Contact
+Feel free to reach out if you have any questions or would like to collaborate:
 
+- **LinkedIn:** [Fadil Nasrudy](https://www.linkedin.com/in/nasrudyfm/)
+- **GitHub:** [Fadil Muhammad Nasrudy](https://github.com/tojangeng262)
+- **Email:** fadil_tojangeng@apps.ipb.ac.id
 
-NEW!!!
 
 
 
