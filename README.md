@@ -35,8 +35,11 @@ Core questions to be ask:
 - The growth is driven almost entirely by **aquaculture**.
 - In 2013, aquaculture surpassed capture fisheries in production volume (“The Crossover”).
 
-![Top Producers, *ingat untuk ganti gambar](visuals/Fisheries_Trend_Aquaculture_vs_Capture_Enhanced.png)
+![Top Producers, *ingat untuk ganti gambar](visuals/final/Fisheries_Commodity_Production_Over_Time.png)
 
+i also try to create a simple forecast. here's the result
+
+![Top Producers, *ingat untuk ganti gambar](visuals/final/Forecast_Fisheries_Commodity_Production_Over_Time.png)
 
 ### Phase 2 Analysis: Identifying the Titans of Aquaculture
 #### Which countries are the most significant producers in the global aquaculture market?
@@ -44,7 +47,7 @@ Core questions to be ask:
 - The **top 10 producers** include China, Indonesia, India, Viet Nam, Philippines, Bangladesh, Republic of Korea, Japan, Norway, and Thailand.
 - These countries account for the bulk of global aquaculture output.
 
-![Top Producers, *ingat untuk ganti gambar](visuals/Top_10_Countries_by_Total_Production_2000–2024.png)
+![Top Producers, *ingat untuk ganti gambar](visuals/final/Total_Production_of_Top_10_Countries_by_Annual_Average_Production_Past_10_Years_final.png)
 
 
 ### Phase 3 Analysis: Spotting the Rising Stars and Ideal Targets
@@ -56,20 +59,46 @@ Core questions to be ask:
   - **Absolute Annual Growth** — indicates real expansion in volume.
 - Countries were positioned in quadrants: *Fast and Volatile*, *Slow and Volatile*, *Steady Growth*, and *Slow and Stable*.
 
-![Top Producers, *ingat untuk ganti gambar](visuals/Aquaculture_Market_Positioning.png)
+![Top Producers, *ingat untuk ganti gambar](visuals/final/Aquaculture_Market_Dynamics_CAGR_vs_Volatility_median.png)
 
 ### Phase 4 Analysis: The Deep Dive into Species Composition
 #### For the most promising countries, what is the composition of their aquaculture industry?
 
-- Focused on countries like **Indonesia**, **India**, **Ecuador**, and **Viet Nam**.
 - Assessed the species mix with attention to strategic alignment:
   - Example: Crustaceans + Marine Fish NEI (aligned with company product line).
-  - Differentiated *hyper-specialized* vs. *diversified* markets.
+  - Scoring for both cagr of the species, volatility, and production
+  - Ranking the country as the target market
+- Look for composition in the country that fall in country target markets
 
  
-![Top Producers, *ingat untuk ganti gambar](visuals/Aquaculture_Species_Composition_First.png)
+![Top Producers, *ingat untuk ganti gambar](visuals/final/Aquaculture_Country_&_Product_Scores.png)
 
-Make another 
+
+below, is the detail of top country in table that was align with company produt line
+
+| Rank | Country | Species | Score |
+|:----:|:--------------------------------------|:-----------------|----------:|
+| 1 | [China]() | Crustaceans, Marine fish NEI | 31.1064, -2.232597 |
+| 2 | [Ecuador]() | Crustaceans | 7.56675 |
+| 3 | [Viet Nam]() | Crustaceans | 4.72067 |
+| 4 | [Indonesia]() | Crustaceans | 2.26204 |
+| 5 | [India]() | Crustaceans | 2.12772 |
+| 6 | [Bangladesh]() | Marine fish NEI, Crustaceans | -0.311202, -0.876461 |
+| 7 | [United States of America]() | Marine fish NEI, Crustaceans | -0.679796, -4.941775 |
+| 8 | [Philippines]() | Crustaceans | -0.713251 |
+| 9 | [Japan]() | Crustaceans | -1.77402 |
+| 10 | [Thailand]() | Crustaceans | -1.78913 |
+| 11 | [Democratic People's Republic of Korea]() | Marine fish NEI | -2.41805 |
+| 12 | [Cambodia]() | Marine fish NEI | -2.84186 |
+| 13 | [Mexico]() | Crustaceans | -2.87401 |
+| 14 | [Taiwan Province of China]() | Crustaceans | -3.49545 |
+| 15 | [Brazil]() | Crustaceans | -3.51775 |
+| 16 | [Malaysia]() | Crustaceans | -4.01802 |
+| 17 | [Iran (Islamic Republic of)]() | Crustaceans | -6.27516 |
+
+ i also create an overall composition, thou it focus on the related species group. here's is the example of country target composition. you can click the country above to see the detail of others country
+ 
+![Top Producers, *ingat untuk ganti gambar](visuals/final/Aquaculture_Country_&_Product_Scores.png)
 
 ## 🧠 Phase 5: The Synthesis – Final Recommendation
 
