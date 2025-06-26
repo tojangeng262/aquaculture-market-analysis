@@ -66,6 +66,7 @@ Core questions to be ask:
   - Example: Crustaceans + Marine Fish NEI (aligned with company product line).
   - Differentiated *hyper-specialized* vs. *diversified* markets.
 
+ 
 ![Top Producers, *ingat untuk ganti gambar](visuals/Aquaculture_Species_Composition_First.png)
 
 Make another 
